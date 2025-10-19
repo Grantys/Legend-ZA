@@ -16,6 +16,7 @@ Without their incredible work and dedication to automation tools, this project w
 ## ⚙️ Usage
 
 Each macro is intended to be used in conjunction with the **ComputerControl** automation software.
+⚠️Switch 1 OLED optimized, other devices may need re-adjustments⚠️
 
 **Reference:**  
 ➡️ [Turbo Macro Documentation](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/NintendoSwitch/TurboMacro.md)
