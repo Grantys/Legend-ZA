@@ -13,6 +13,11 @@ Each macro is intended to be used in conjunction with the **ComputerControl** au
 **Reference:**  
 ➡️ [Turbo Macro Documentation](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/NintendoSwitch/TurboMacro.md)
 
+**How to Use:**
+- Open the **Turbo Macro** interface in the ComputerControl program.  
+- Use the **Load Table** function to load the desired macro file from this repository.  
+- Start the macro according to its setup instructions below.
+
 ---
 
 ## 🪑 Bench Method
