@@ -1,0 +1,106 @@
+﻿[
+    {
+        "Action": "left-joystick",
+        "HoldMs": "50 ms",
+        "MoveDirectionX": 128,
+        "MoveDirectionY": 255,
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "750 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "500 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "1125 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "500 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "22250 ms"
+    },
+    {
+        "Action": "left-joystick",
+        "HoldMs": "50 ms",
+        "MoveDirectionX": 128,
+        "MoveDirectionY": 255,
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "750 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "500 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "1125 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "500 ms"
+    },
+    {
+        "Action": "button-A",
+        "HoldMs": "50 ms",
+        "ReleaseMs": "5 ms"
+    },
+    {
+        "Action": "wait",
+        "WaitMs": "19500 ms"
+    }
+]
