@@ -63,5 +63,3 @@ These macros automate flypoint resets to specific zones for optimal farming or s
 - Avoid running macros in areas with high aggression Pokémon to prevent interruptions.
 
 ---
-
-**Created for Pokémon Automation — Legend-ZA Edition**
