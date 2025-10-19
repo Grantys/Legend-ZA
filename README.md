@@ -6,6 +6,13 @@ These macros automate repetitive tasks within Pokémon games using the **Nintend
 
 ---
 
+## 💠 Recognition
+
+A special thanks and full recognition go to the **[Pokémon Automation ComputerControl](https://github.com/PokemonAutomation/ComputerControl)** development team.  
+Without their incredible work and dedication to automation tools, this project would not have been possible.
+
+---
+
 ## ⚙️ Usage
 
 Each macro is intended to be used in conjunction with the **ComputerControl** automation software.
@@ -54,12 +61,6 @@ These macros automate flypoint resets to specific zones for optimal farming or s
 ## ⚠️ Notes
 - Ensure your Switch is connected and recognized by the ComputerControl system before running macros.
 - Avoid running macros in areas with high aggression Pokémon to prevent interruptions.
-
----
-
-## 🧩 Contributing
-Pull requests for new macros or optimizations are welcome! Please ensure compatibility with the latest **ComputerControl** version before submitting.
-
 
 ---
 
