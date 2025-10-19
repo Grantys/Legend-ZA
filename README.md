@@ -38,13 +38,14 @@ Each macro is intended to be used in conjunction with the **ComputerControl** au
 - The macro may fail if you are detected and attacked by aggressive Pokémon.  
 - To minimize the risk of a blackout (which interrupts the macro), it is recommended to have a **Green Canari Plush Lv. 3**.
 - This macro alternates **once from day to night** and **once from night to day** — completing one full loop in approximately **50 seconds**.  
-  Consider this timing when setting the macro’s loop duration.
+  Consider this timing when setting the macro’s loop number.
 
 ---
 
 ## 🗺️ Flypoint Resets
 
 These macros automate flypoint resets to specific zones for optimal farming or setup.
+One full loop in approximately **10 seconds**, consider this timing when setting the macro’s loop number.
 
 ### 1️⃣ Zone 19
 **Setup:**  
