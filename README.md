@@ -43,7 +43,7 @@ These macros automate flypoint resets to specific zones for optimal farming or s
 
 ### 2️⃣ Zone 20
 **Setup:**  
-- Fly to the **Wild Zone 19 Flypoint**  
+- Fly to the **Centrico Plaza Flypoint**  
 - Start the macro script.
 
 ---
