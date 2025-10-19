@@ -15,7 +15,8 @@ Each macro is intended to be used in conjunction with the **ComputerControl** au
 
 **How to Use:**
 - Open the **Turbo Macro** interface in the ComputerControl program.  
-- Use the **Load Table** function to load the desired macro file from this repository.  
+- Use the **Load Table** function to load the desired macro file from this repository.
+- Set the desired loop count
 - Start the macro according to its setup instructions below.
 
 ---
@@ -29,6 +30,8 @@ Each macro is intended to be used in conjunction with the **ComputerControl** au
 **Important Information:**  
 - The macro may fail if you are detected and attacked by aggressive Pokémon.  
 - To minimize the risk of a blackout (which interrupts the macro), it is recommended to use a **Green Canari Plush Lv. 3**.
+- This macro alternates **once from day to night** and **once from night to day** — completing one full loop in approximately **50 seconds**.  
+  Consider this timing when setting the macro’s loop duration.
 
 ---
 
